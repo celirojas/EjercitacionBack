@@ -1,0 +1,34 @@
+[2022-05-26 11:15:21] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:16:34] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:16:34] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:17:04] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:17:04] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:17:04] [INFO ] [Felino:14] El tigre Tigre2 está corriendo
+  [2022-05-26 11:17:04] [INFO ] [Felino:20] El tigre Tigre2 tiene más de 10 años.
+  [2022-05-26 11:17:22] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:17:22] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:17:22] [INFO ] [Felino:14] El tigre Tigre3 está corriendo
+  [2022-05-26 11:17:22] [INFO ] [Felino:20] El tigre Tigre3 tiene más de 10 años.
+  [2022-05-26 11:18:38] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:18:38] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:18:38] [INFO ] [Felino:14] El tigre Tigre3 está corriendo
+  [2022-05-26 11:18:38] [INFO ] [Felino:20] El tigre Tigre3 tiene más de 10 años.
+  [2022-05-26 11:18:38] [DEBUG] [Felino:13] Instanciando león Leon1
+  [2022-05-26 11:18:38] [INFO ] [Felino:18] El tigre Leon1 está corriendo
+  [2022-05-26 11:18:38] [INFO ] [Felino:24] El león Leon1 es el alfa y tiene más de 10 años
+  [2022-05-26 11:19:00] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:19:00] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:19:00] [INFO ] [Felino:14] El tigre Tigre3 está corriendo
+  [2022-05-26 11:19:00] [INFO ] [Felino:20] El tigre Tigre3 tiene más de 10 años.
+  [2022-05-26 11:19:00] [DEBUG] [Felino:13] Instanciando león Leon1
+  [2022-05-26 11:19:00] [INFO ] [Felino:18] El leon Leon1 está corriendo
+  [2022-05-26 11:19:00] [INFO ] [Felino:24] El león Leon1 es el alfa y tiene más de 10 años
+  [2022-05-26 11:19:43] [INFO ] [Felino:14] El tigre Tigre1 está corriendo
+  [2022-05-26 11:19:43] [ERROR] [Main:26] La edad de Tigre2 es incorrecta
+  [2022-05-26 11:19:43] [INFO ] [Felino:14] El tigre Tigre3 está corriendo
+  [2022-05-26 11:19:43] [INFO ] [Felino:20] El tigre Tigre3 tiene más de 10 años.
+  [2022-05-26 11:19:43] [DEBUG] [Felino:13] Instanciando león Leon1
+  [2022-05-26 11:19:43] [INFO ] [Felino:18] El leon Leon1 está corriendo
+  [2022-05-26 11:19:43] [INFO ] [Felino:24] El león Leon1 es el alfa y tiene más de 10 años
+  [2022-05-26 11:19:43] [ERROR] [Main:48] La edad de Leon2 es incorrecta
+  
