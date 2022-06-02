@@ -1,0 +1,158 @@
+[2022-05-27 11:17:02] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:17:02] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:17:02] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:17:02] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:17:02] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:17:02] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:18:07] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:18:07] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:18:07] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:18:07] [INFO ] [Calculadora:19] El promedio de la lista es de: 21
+  [2022-05-27 11:18:07] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:19:01] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:19:01] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:19:01] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:19] El promedio de la lista es de: 21
+  [2022-05-27 11:19:01] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores []
+  [2022-05-27 11:19:01] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores []
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:19] El promedio de la lista es de: 21
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:48] El minimo es: 0
+  [2022-05-27 11:19:37] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores []
+  [2022-05-27 11:19:37] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores []
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:19] El promedio de la lista es de: 21
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:48] El minimo es: 3
+  [2022-05-27 11:20:49] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores []
+  [2022-05-27 11:20:49] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores []
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:19] El promedio de la lista es de: 21
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 42, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:48] El minimo es: 3
+  [2022-05-27 11:21:26] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores []
+  [2022-05-27 11:21:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores []
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [10, 20, 15, 40, 50, 60]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:19] El promedio de la lista es de: 32
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:13] Iniciando método calcularPromedio de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:19] El promedio de la lista es de: 25
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:20] Se terminó el método calcularPromedio
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:48] El minimo es: 3
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:62] El maximo es: 3
+  [2022-05-27 11:21:51] [DEBUG] [Calculadora:63] Se terminó el método encontrarMaximo.
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores []
+  [2022-05-27 11:21:51] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores []
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:22:26] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:48] El minimo es: 3
+  [2022-05-27 11:22:26] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:22:26] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:22:26] [INFO ] [Calculadora:62] El maximo es: 3
+  [2022-05-27 11:22:26] [DEBUG] [Calculadora:63] Se terminó el método encontrarMaximo.
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:40] Iniciando método encontrarMinimo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:23:25] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:48] El minimo es: 3
+  [2022-05-27 11:23:25] [DEBUG] [Calculadora:49] Se terminó el método encontrarMinimo.
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:54] Iniciando método encontrarMaximo de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:25] Iniciando método validarLista de los siguientes valrores [3, 11, 35, 6, 10, 8, 22, 100, 9, 56, 21, 47, 15, 18]
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:28] La lista es mayor a 5
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:31] La lista es mayor a 10
+  [2022-05-27 11:23:25] [DEBUG] [Calculadora:36] Se terminó de validar la lista
+  [2022-05-27 11:23:25] [INFO ] [Calculadora:62] El maximo es: 100
+  [2022-05-27 11:23:25] [DEBUG] [Calculadora:63] Se terminó el método encontrarMaximo.
+  
