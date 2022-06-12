@@ -1,0 +1,6 @@
+dao\impl\PacienteDAOH2.class
+service\PacienteService.class
+dao\impl\DomicilioDAOH2.class
+model\Paciente.class
+dao\IDAO.class
+model\Domicilio.class
